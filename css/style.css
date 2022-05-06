@@ -3,7 +3,7 @@ body{
     text-align: center;
     font-family: 'Fredoka One', cursive;
     font-size: 20px;
-    
+    background-color: #DEB6AB;
 }
 
 h1{
@@ -12,13 +12,6 @@ h1{
     padding-top: 100px;
 }
     
-
-.top{
-    
-    background-color: #c6c69d;
-    position:relative;
-}
-
 .topcloud{
     position:absolute;
     top: 50px;
@@ -114,7 +107,7 @@ h1{
   .bottom{
     font-size: large;
     margin-top: 60px;
-    background-color: #becdd7;
+    background-color: #78938A;
     text-align: center;
     padding-top: 20px;
     padding-bottom: 10px;
@@ -127,7 +120,7 @@ h1{
     border-radius: 20px;
     padding: 10px;
     color:rgb(145, 78, 11);
-    margin: 10px 10px;
+    margin: 10px 10px ;
 }
 
 a:hover{
